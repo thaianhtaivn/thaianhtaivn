@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @thaianhtaivn
-- 👀 I’m interested in product creative
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Embedded System
+👋 Hi, I’m @thaianhtaivn
+
+- 👀 I’m interested in creative products
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate in Embedded System
 - 📫 How to reach me thaianhtaivn@gmail.com
+- 🌐 My website: [thaianhtaivn.web.app](https://thaianhtaivn.web.app)
 
 <!---
 thaianhtaivn/thaianhtaivn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
