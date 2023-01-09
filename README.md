@@ -1,4 +1,4 @@
-👋 Hi, I’m @thaianhtaivn
+👋 Hi, I’m @thaianhtaivn, an embedded software engineer.
 
 - 👀 I’m interested in creative products
 - 🌱 I’m currently learning C#
